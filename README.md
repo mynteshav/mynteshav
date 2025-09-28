@@ -1,52 +1,66 @@
-# 👋 Hi, I'm Teshav Sharma  
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Teshav Sharma</h1>
+<h3 align="center">🚀 Data Scientist | Python | SQL | Machine Learning | Power BI</h3>
 
-🚀 **Aspiring Data Scientist** | Python | SQL | Machine Learning | Power BI  
-
-I’m passionate about transforming raw data into actionable insights, building intelligent ML solutions, and solving real-world business problems with data.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mynteshav&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
+  <a href="https://github.com/mynteshav?tab=followers"><img src="https://img.shields.io/github/followers/mynteshav?label=Followers&style=social" alt="GitHub Followers"></a>
+</p>
 
 ---
 
-## 🛠️ Skills & Tools  
-- **Languages:** Python, SQL, C++  
-- **Machine Learning:** Scikit-learn, XGBoost, TensorFlow, PyTorch  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
-- **Databases:** MySQL, PostgreSQL  
-- **Other Tools:** Git, Linux, APIs, Jupyter, Cloud Basics (AWS/GCP)  
+## 🛠️ Tech Stack & Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 Featured Projects  
 
-🔹 [**Flipkart Product Pricing**](https://github.com/mynteshav/Flipkart-product-pricing)  
-*Built a regression model to predict optimal product prices from Flipkart dataset. Includes EDA, feature engineering, and model evaluation.*  
+📦 [**Flipkart Product Pricing**](https://github.com/mynteshav/Flipkart-product-pricing)  
+🔹 Regression model to predict optimal prices | EDA | Feature Engineering | Model Evaluation  
 
-🔹 [**Predict Holiday Package Interest (XGBoost)**](https://github.com/mynteshav/Predict-Holiday-Package-Using-XGBoost)  
-*Predicted customer interest in holiday packages using classification models with EDA, preprocessing, feature engineering, and evaluation.*  
+✈️ [**Predict Holiday Package Interest (XGBoost)**](https://github.com/mynteshav/Predict-Holiday-Package-Using-XGBoost)  
+🔹 Customer interest classification using XGBoost | Preprocessing | Feature Engineering  
 
-🔹 [**Job Market Salary Trends Dashboard**](https://github.com/mynteshav/Job-Market-Salary-Trends-Dashboard-Power-BI)  
-*Designed an interactive **Power BI Dashboard** analyzing salary trends across industries and roles.*  
+📈 [**Job Market Salary Trends Dashboard**](https://github.com/mynteshav/Job-Market-Salary-Trends-Dashboard-Power-BI)  
+🔹 Interactive Power BI dashboard analyzing global salary trends across industries  
 
-🔹 [**Customer Segmentation System**](https://github.com/mynteshav/CodeClause_Customer_Segmentation_system2.ipynb)  
-*Unsupervised clustering (KMeans) to segment customers based on behavior and spending patterns.*  
+🧑 [**Customer Segmentation System (KMeans)**](https://github.com/mynteshav/CodeClause_Customer_Segmentation_system2.ipynb)  
+🔹 Unsupervised clustering for customer segmentation & business insights  
 
-🔹 [**Gender & Age Detection (Computer Vision)**](https://github.com/mynteshav/CodeClause_Gender_and_age_detection_system1)  
-*Developed a real-time system using **OpenCV** for gender and age prediction from images.*  
+🤖 [**Gender & Age Detection (Computer Vision)**](https://github.com/mynteshav/CodeClause_Gender_and_age_detection_system1)  
+🔹 Real-time detection with OpenCV + Deep Learning  
 
-🔹 [**Object Detection and Action Recognition**](https://github.com/mynteshav/Object-Detection-and-Action)  
-*Implemented computer vision pipeline for detecting objects and actions in images.*  
+🖼️ [**Object Detection & Action Recognition**](https://github.com/mynteshav/Object-Detection-and-Action)  
+🔹 Computer vision pipeline for multi-class object & action recognition  
 
 ---
 
-## 📌 Portfolio & Highlights  
-- 🖥️ [GitHub Portfolio Website](https://mynteshav.github.io/teshavsharma/)  
-- 📂 [All Repositories](https://github.com/mynteshav?tab=repositories)  
-- 🏆 Open-source contributor & passionate learner of AI/ML  
+## 📌 Portfolio & Stats  
+
+<p align="center">
+  <a href="https://mynteshav.github.io/teshavsharma/"><img src="https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge" /></a>
+  <a href="https://github.com/mynteshav?tab=repositories"><img src="https://img.shields.io/badge/📂%20All%20Repos-000?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/teshav-sharma-3793a7242/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mynteshav&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mynteshav&theme=tokyonight" alt="streak stats" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/teshav-sharma-3793a7242/)  
-- 📧 Email: *[your email here]*  
+📧 Email: *[your email here]*  
+💼 LinkedIn: [Teshav Sharma](https://www.linkedin.com/in/teshav-sharma-3793a7242/)  
 
----
 ✨ *Always eager to collaborate on Data Science, Machine Learning, and AI projects!*
