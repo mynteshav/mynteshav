@@ -27,20 +27,14 @@
 📦 [**Flipkart Product Pricing**](https://github.com/mynteshav/Flipkart-product-pricing)  
 🔹 Regression model to predict optimal prices | EDA | Feature Engineering | Model Evaluation  
 
+📈 [**Job Market Salary Trends Dashboard**](https://github.com/mynteshav/Job-Market-Salary-Trends-Dashboard-Power-BI)  
+🔹 Interactive Power BI dashboard analyzing global salary trends across industries
+
 ✈️ [**Predict Holiday Package Interest (XGBoost)**](https://github.com/mynteshav/Predict-Holiday-Package-Using-XGBoost)  
 🔹 Customer interest classification using XGBoost | Preprocessing | Feature Engineering  
 
-📈 [**Job Market Salary Trends Dashboard**](https://github.com/mynteshav/Job-Market-Salary-Trends-Dashboard-Power-BI)  
-🔹 Interactive Power BI dashboard analyzing global salary trends across industries  
-
 🧑 [**Customer Segmentation System (KMeans)**](https://github.com/mynteshav/CodeClause_Customer_Segmentation_system2.ipynb)  
-🔹 Unsupervised clustering for customer segmentation & business insights  
-
-🤖 [**Gender & Age Detection (Computer Vision)**](https://github.com/mynteshav/CodeClause_Gender_and_age_detection_system1)  
-🔹 Real-time detection with OpenCV + Deep Learning  
-
-🖼️ [**Object Detection & Action Recognition**](https://github.com/mynteshav/Object-Detection-and-Action)  
-🔹 Computer vision pipeline for multi-class object & action recognition  
+🔹 Unsupervised clustering for customer segmentation & business insights    
 
 ---
 
@@ -60,7 +54,7 @@
 ---
 
 ## 🌐 Connect with Me  
-📧 Email: *[your email here]*  
+📧 Email: [teshavsharma74@gmail.com]  
 💼 LinkedIn: [Teshav Sharma](https://www.linkedin.com/in/teshav-sharma-3793a7242/)  
 
 ✨ *Always eager to collaborate on Data Science, Machine Learning, and AI projects!*
