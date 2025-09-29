@@ -32,10 +32,10 @@
 
 | Project | Key Focus | Technologies | Repository |
 | :--- | :--- | :--- | :--- |
-| 💰 **Flipkart Product Pricing** | Regression to predict optimal product prices. | Python, Regression Models, EDA, Feature Engineering | [Explore Project](https://github.com/mynteshav/Flipkart-product-pricing) |
-| 📊 **Job Market Salary Trends** | Interactive global salary trend analysis dashboard. | Power BI, Data Visualization, Market Analysis | [View Dashboard](https://github.com/mynteshav/Job-Market-Salary-Trends-Dashboard-Power-BI) |
-| ✈️ **Holiday Package Predictor** | Customer interest classification using advanced XGBoost. | XGBoost, Classification, Preprocessing | [Check out Model](https://github.com/mynteshav/Predict-Holiday-Package-Using-XGBoost) |
-| 👥 **Customer Segmentation System** | Unsupervised clustering for granular customer insights. | KMeans, Unsupervised Learning, Business Intelligence | [See Segmentation](https://github.com/mynteshav/CodeClause_Customer_Segmentation_system2.ipynb) |
+| 💰 **Flipkart Product Pricing** | Regression to predict optimal product prices. | Python, Regression Models, EDA, Feature Engineering | [Explore Project](https://github.com/mynteshav/Flipkart-product-pricing/blob/main/flipkart-product-pricing-strategy-using-regression.ipynb) |
+| 📊 **Job Market Salary Trends** | Interactive global salary trend analysis dashboard. | Power BI, Data Visualization, Market Analysis | [View Dashboard](https://app.powerbi.com/groups/me/reports/7825df4f-44c8-4872-b16c-084baffc8214/35bff6636166b96ad8bb?experience=power-bi) |
+| ✈️ **Holiday Package Predictor** | Customer interest classification using advanced XGBoost. | XGBoost, Classification, Preprocessing | [Check out Model](https://github.com/mynteshav/Predict-Holiday-Package-Using-XGBoost/blob/main/predict-holiday-package-using-xgboost-model.ipynb) |
+| 👥 **Customer Segmentation System** | Unsupervised clustering for granular customer insights. | KMeans, Unsupervised Learning, Business Intelligence | [See Segmentation](https://github.com/mynteshav/CodeClause_Customer_Segmentation_system2.ipynb/blob/main/CodeClause_Customer_Segmentation_system.ipynb) |
 
 ---
 
