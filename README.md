@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mynteshav&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" /> 
-  <a href="https://github.com/mynteshav?tab=followers"><img src="https://img.shields.io/github/followers/mynteshav?label=Followers&style=social&icon=github" alt="GitHub Followers"></a>
   <img src="https://img.shields.io/github/stars/mynteshav?style=social" alt="GitHub Stars">
 </p>
 
