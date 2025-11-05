@@ -42,7 +42,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mynteshav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Teshav's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mynteshav&theme=tokyonight&hide_border=true" alt="Teshav's GitHub Streak" />
 </p>
 
 ---
