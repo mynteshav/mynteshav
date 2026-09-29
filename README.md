@@ -1,58 +1,110 @@
-<h1 align="center">👋 Hello! I'm Teshav Sharma, a passionate Data Scientist</h1>
-<h3 align="center">💡 Turning Data into Insights: Python | SQL | Machine Learning | Power BI</h3>
+<h1 align="center">👋 Hello! I'm Teshav Sharma</h1>
+
+<h3 align="center">
+  AI/ML Enthusiast | Data Scientist | Generative AI Practitioner
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mynteshav&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" /> 
-  <img src="https://img.shields.io/github/stars/mynteshav?style=social" alt="GitHub Stars">
+  <b>Building intelligent solutions with Python, Machine Learning, LLMs, RAG & Data Analytics</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mynteshav&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/mynteshav?style=social" alt="GitHub Stars" />
 </p>
 
 ---
 
-## 🚀 My Data Science Toolkit  
-*The technologies and tools I use to build robust analytical solutions and production-ready applications.*
+## 🚀 About Me
+
+I'm a passionate **AI/ML enthusiast and aspiring Data Scientist** focused on building practical, data-driven and intelligent applications.
+
+🎓 BCA Graduate from Poornima University  
+🎓 Currently pursuing MCA with a focus on **Artificial Intelligence & Data Science**  
+💻 Experienced with **Python, SQL, Machine Learning, Deep Learning & Data Analytics**  
+🤖 Exploring **Generative AI, LLMs, RAG, Embeddings & NLP**  
+📊 Interested in **Predictive Analytics, Computer Vision and AI-powered applications**  
+🚀 Building end-to-end ML and GenAI applications using modern tools and frameworks
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & Data
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-5D3FD3?style=for-the-badge&logo=npl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning & Deep Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
+
+### 🧠 Generative AI & NLP
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-0468FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-5A67D8?style=for-the-badge"/>
+</p>
+
+### 📊 Data Analytics & Visualization
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### ⚙️ Frameworks & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 Featured Projects & Portfolio Highlights  
-*Dive into my work, where I solve real-world problems with data and algorithms.*
+## 🚀 Featured Projects
 
-| Project | Key Focus | Technologies | Repository |
-| :--- | :--- | :--- | :--- |
-| 💰 **Flipkart Product Pricing** | Regression to predict optimal product prices. | Python, Regression Models, EDA, Feature Engineering | [Explore Project](https://github.com/mynteshav/Flipkart-product-pricing/blob/main/flipkart-product-pricing-strategy-using-regression.ipynb) |
-| 📊 **Job Market Salary Trends** | Interactive global salary trend analysis dashboard. | Power BI, Data Visualization, Market Analysis | [View Dashboard](https://app.powerbi.com/groups/me/reports/7825df4f-44c8-4872-b16c-084baffc8214/35bff6636166b96ad8bb?experience=power-bi) |
-| ✈️ **Holiday Package Predictor** | Customer interest classification using advanced XGBoost. | XGBoost, Classification, Preprocessing | [Check out Model](https://github.com/mynteshav/Predict-Holiday-Package-Using-XGBoost/blob/main/predict-holiday-package-using-xgboost-model.ipynb) |
-| 👥 **Customer Segmentation System** | Unsupervised clustering for granular customer insights. | KMeans, Unsupervised Learning, Business Intelligence | [See Segmentation](https://github.com/mynteshav/CodeClause_Customer_Segmentation_system2.ipynb/blob/main/CodeClause_Customer_Segmentation_system.ipynb) |
-
----
-
-## 📌 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mynteshav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Teshav's GitHub Stats" />
-</p>
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| 🤖 **AI Career Intelligence Platform** | AI-powered platform that analyzes resumes and job-market data to recommend career roles and identify skill gaps. | Python, NLP, LLMs, RAG, LangChain, Ollama, FAISS, FastAPI, Streamlit |
+| 💰 **Flipkart Product Pricing Strategy** | ML-based pricing analysis and prediction using product-level data and regression techniques. | Python, Pandas, Scikit-learn, Random Forest, EDA |
+| 📊 **Job Market Salary Dashboard** | Interactive dashboard analyzing salary, job, skill and location trends across 14,200+ job postings. | Power BI, DAX, Data Analytics |
+| ✈️ **Holiday Package Predictor** | Machine learning classification system to predict customer interest in holiday packages. | Python, XGBoost, Scikit-learn |
+| 👥 **Customer Segmentation System** | Customer segmentation using unsupervised learning to identify meaningful customer groups. | Python, K-Means, Pandas, Matplotlib |
 
 ---
 
-## 🌐 Let's Connect & Collaborate!  
+## 💡 What I'm Currently Exploring
 
-<p align="center">
-  <a href="https://mynteshav.github.io/teshavsharma/"><img src="https://img.shields.io/badge/🌐%20Portfolio-1F3F4F?style=for-the-badge&logo=netlify" /></a>
-  <a href="https://www.linkedin.com/in/teshav-sharma-3793a7242/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:teshavsharma74@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/mynteshav?tab=repositories"><img src="https://img.shields.io/badge/📂%20All%20Repos-24292E?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-✨ *Always eager to collaborate on exciting Data Science, Machine Learning, and AI projects. Feel free to reach out!*
+```text
+Generative AI
+     ↓
+LLMs → Embeddings → Vector Databases → RAG
+     ↓
+LangChain → Ollama → Hugging Face
+     ↓
+FastAPI → Streamlit → Docker
