@@ -98,13 +98,82 @@ I'm a passionate **AI/ML enthusiast and aspiring Data Scientist** focused on bui
 
 ---
 
-## 💡 What I'm Currently Exploring
+## 🧠 Currently Learning
 
-```text
-Generative AI
-     ↓
-LLMs → Embeddings → Vector Databases → RAG
-     ↓
-LangChain → Ollama → Hugging Face
-     ↓
-FastAPI → Streamlit → Docker
+<p align="center">
+
+`Generative AI` → `LLMs` → `Embeddings` → `Vector Databases`
+
+⬇️
+
+`RAG` → `LangChain` → `Ollama` → `Hugging Face`
+
+⬇️
+
+`FastAPI` → `Streamlit` → `Docker` → `Deployment`
+
+</p>
+
+I'm currently focused on strengthening my skills in **Generative AI, Large Language Models, RAG, NLP, Machine Learning and production-oriented AI applications.**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mynteshav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+       alt="Teshav's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mynteshav&theme=tokyonight&hide_border=true" 
+       alt="Teshav's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mynteshav&theme=tokyo-night&hide_border=true&area=true" 
+       alt="Teshav's GitHub Activity Graph" />
+</p>
+
+---
+
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynteshav&theme=tokyonight" 
+       alt="GitHub Profile Summary" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+
+  <a href="https://mynteshav.github.io/teshavsharma/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-1F3F4F?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/teshav-sharma-3793a7242/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:teshavsharma74@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/mynteshav?tab=repositories">
+    <img src="https://img.shields.io/badge/📂%20Repositories-24292E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</p>
+
+---
+
+<h3 align="center">
+  🚀 Building with Data • 🤖 Learning AI • 💡 Creating Intelligent Solutions
+</h3>
+
+<p align="center">
+  ✨ Always open to collaborating on AI, Machine Learning, Generative AI and Data Science projects.
+</p>
